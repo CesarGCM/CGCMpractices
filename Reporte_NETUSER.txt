@@ -1,0 +1,234 @@
+Nivel de importancia segun mi criterio:
+(Alto): Podrian ser muy importantes
+(Medio-alto): podrian ser importantes
+(Medio): podrian ser importantes, aunque no estoy seguro
+
+---------------------------------------------------------
+
+(Medio-alto)
+OpenSavePidlMRU\json
+LastWrite Time: Sat Nov 28 01:58:17 2020
+Note: All value names are listed in MRUListEx order.
+
+  Users\PycharmProjects\untitled1\correos\*****.json
+  Users\PycharmProjects\untitled1\PIA Prog CS\*****.json
+
+
+(Alto)
+OpenSavePidlMRU\key
+LastWrite Time: Sun Oct 25 07:26:02 2020
+Note: All value names are listed in MRUListEx order.
+
+  Users\PycharmProjects\untitled1\conexionTCP\****.key
+
+
+(Medio)
+OpenSavePidlMRU\jpg
+LastWrite Time: Sun Nov 29 01:58:06 2020
+Note: All value names are listed in MRUListEx order.
+
+  problema 5.jpg
+  problema 3.jpg
+  problema 1.jpg
+  Parcial2_CalInt_CGCM_pag3.jpg
+  Parcial2_CalInt_CGCM_pag2.jpg
+  Parcial2_CalInt_CGCM_pag1.jpg
+  Tarea_09-11-20_pag4.jpg
+  Tarea_09-11-20_pag3.jpg
+  Tarea_09-11-20_pag2.jpg
+  Tarea_09-11-20_pag1.jpg
+  Users\whatsapp_img.jpg
+  Semestre_AGO2020-ENE2021\2-Cálculo Integral\22-10-20_pag4.jpg
+  Semestre_AGO2020-ENE2021\2-Cálculo Integral\22-10-20_pag3.jpg
+  Semestre_AGO2020-ENE2021\2-Cálculo Integral\22-10-20_pag2.jpg
+  Semestre_AGO2020-ENE2021\2-Cálculo Integral\22-10-20_pag1.jpg
+  My Computer\C:\Users\PC\Desktop\ParcialMatDis1_pag3.jpg
+  My Computer\C:\Users\PC\Desktop\ParcialMatDis1_pag2.jpg
+  My Computer\C:\Users\PC\Desktop\ParcialMatDis1_pag1.jpg
+  Semestre_AGO2020-ENE2021\2-Cálculo Integral\20-10-20_pag3.jpg
+  Semestre_AGO2020-ENE2021\2-Cálculo Integral\20-10-20_pag2.jpg
+OpenSavePidlMRU\png
+LastWrite Time: Sat Nov 28 01:09:32 2020
+Note: All value names are listed in MRUListEx order.
+
+  sudo linux meme.png
+  N4LDJro83hODxAEOmLmISEOJvztYmmpY0A6AOxuDcgk.png
+  Best_Score(Diep.io)\364K Hybrid.png
+  Users\Captura de powershell MT.PNG
+  Unknown Type (0x36)
+  trigonometricas inversas.png
+  Users\PycharmProjects\untitled1\metadata\Screenshot_metadata.png
+  Users\PycharmProjects\untitled1\conexionTCP\Screenshot_conexionTCP.png
+  Katana_diagram.png
+  Screenshot_conexionTCP.png
+  My Computer\C:\Users\PC\Desktop\pag3.png
+  My Computer\C:\Users\PC\Desktop\pag2.png
+  pag1.png
+  pag3.png
+  pag2.png
+  My Computer\C:\Users\PC\Desktop\sefsefse.png
+  My Computer\C:\Users\PC\Desktop\sfsd.png
+  My Computer\C:\Users\PC\Desktop\tgfhth.png
+  tgfhth.png
+  sefsefse.png
+
+
+(Medio-alto)
+OpenSavePidlMRU\ps1
+LastWrite Time: Wed Nov 25 23:19:40 2020
+Note: All value names are listed in MRUListEx order.
+
+  Explorer
+  exifXtract.ps1
+  My Computer\C:\exifXtract.ps1
+  Users\MsteamsPS.ps1
+  Users\MTpowershell.ps1
+  My Computer\C:\testeo.ps1
+  Delete_Cookies.ps1
+  My Computer\C:\Example2.ps1
+  My Computer\C:\Unknown Type (0x36)
+  My Computer\C:\Example1.ps1
+
+
+(Medio-alto)
+OpenSavePidlMRU\py
+LastWrite Time: Sat Nov 28 01:57:32 2020
+Note: All value names are listed in MRUListEx order.
+
+  Users\PycharmProjects\untitled1\correos\send_meme_mail.py
+  Users\PycharmProjects\untitled1\PIA Prog CS\servidorTCP.py
+  Users\PycharmProjects\untitled1\PIA Prog CS\PIA_script.py
+  Users\script_img_downloader.py
+  Users\extract_img_metadata.py
+  descifradoTransposicion.py
+  Users\PycharmProjects\untitled1\conexionTCP\clienteTCP.py
+  Users\PycharmProjects\untitled1\conexionTCP\servidorTCP.py
+  Users\PycharmProjects\untitled1\dict_compatibilidad_p2&p3.py
+  Hunter2.0-CGCM.py
+  HunterconPEP8.py
+  CGCM-Registro Alumnos.py
+  CGCM-Codigo Postal.py
+  CGCM-Algoritmos de ordenamiento.py
+
+
+(Medio-alto)
+OpenSavePidlMRU\sh
+LastWrite Time: Sun Oct 11 18:02:34 2020
+Note: All value names are listed in MRUListEx order.
+
+  ipscript.sh
+
+
+(Alto)
+identities v.20200525
+(NTUSER.DAT) Extracts values from Identities key; NTUSER.DAT
+
+Identities
+LastWrite Time 2018-09-17 01:14:06Z
+
+Identity Ordinal                         1                             
+Migrated7                                1                             
+Last Username                            Identidad principal           
+Last User ID                             (Lo quito porque no se que tan peligroso sea)
+Identity Login                           (Lo quito porque no se que tan peligroso sea)
+Default User ID                          (Lo quito porque no se que tan peligroso sea)
+
+
+(Alto)
+knowndev v.20200515
+(NTUSER.DAT) Gets user's KnownDevices key contents
+
+KnownDevices
+Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\KnownDevices
+LastWrite Time 2020-11-10 22:35:53Z
+
+WpdDeviceHandler_(Lo quito porque no se que tan peligroso sea)  2020-06-11 04:29:13Z
+Label: Galaxy ***
+
+WpdDeviceHandler_(Lo quito porque no se que tan peligroso sea)  2020-06-22 01:57:37Z
+Label: Moto ******
+
+WpdDeviceHandler_(Lo quito porque no se que tan peligroso sea)  2020-06-22 01:57:29Z
+Label: Moto ******
+
+WpdDeviceHandler_(Lo quito porque no se que tan peligroso sea)  2020-04-24 22:26:14Z
+Label: MI *******
+
+WpdDeviceHandler_(Lo quito porque no se que tan peligroso sea)  2020-09-23 22:23:26Z
+Label: Redmi ******
+
+WpdDeviceHandler_(Lo quito porque no se que tan peligroso sea)  2020-11-10 22:35:53Z
+Label: Redmi ******
+
+
+(Medio)
+(NTUSER.DAT) Checks NTUSER for Multimedia\Other values [malware]
+
+Software\Microsoft\Multimedia\Other not found.
+Software\Microsoft\CTF\LangBarAddIn not found.
+
+
+(Medio-alto)
+msoffice v.20200518
+
+Office Identities
+CESAR G***** ********* ***** (**********@uanl.edu.mx)
+
+
+(Medio-Alto)
+nation v.20200517
+(ntuser.dat) Gets region information from HKCU
+
+Nation Information Check
+Control Panel\International\Geo
+LastWrite time: 2018-09-17 01:13:44Z
+
+The Region value is : ***
+The Country Is: ********
+
+
+(Medio)
+run v.20200511
+(Software, NTUSER.DAT) [Autostart] Get autostart key contents from Software hive
+
+RunMru
+Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+LastWrite Time 2020-11-30 01:34:40Z
+MRUList = oanjelmkihgfdcb
+a   cmd\1
+b   powershell\1
+c   shell:appdata\1
+d   shell:AppUpdatesFolder\1
+e   shell:Cache\1
+f   Shell:CD Burning\1
+g   shell:common appdata\1
+h   shell:commonmusic\1
+i   shell:games\1
+j   shell:cookies\1
+k   shell:recent\1
+l   "C:\Users\PC\Desktop\Semestre AGO2020-ENE2021\1-Programación para Ciberseguridad\Windows PowerShell.lnk"\1
+m   C:\1
+n   "C:\Users\PC\Desktop\Semestre_AGO2020-ENE2021\1-Programación para Ciberseguridad\Windows PowerShell.lnk"\1
+o   regedit\1
+
+
+(Medio)
+wordwheelquery v.20200823
+(NTUSER.DAT) Gets contents of user's WordWheelQuery key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\WordWheelQuery
+LastWrite Time 2020-11-25 23:19:39Z
+
+Searches listed in MRUListEx order
+
+10   ex                            
+9    .ps1                          
+0    power                         
+8    bluetooth                     
+7    blue                          
+6    screen                        
+5    logs                          
+4    10-sep-20                     
+3    system32                      
+1    editor de texto               
+2    texto      
